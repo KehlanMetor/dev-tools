@@ -1,5 +1,7 @@
 # dev-tools
 
+![DevTools](https://miro.medium.com/max/1000/1*QaT6bTdehyCS64FAC-8FnQ.jpeg)
+
 Are you a beginner, an advanced user or an expert when it comes to tech tools? No matter what your level, there are some amazing tools available for you to take advantage of. Whether you are delving into the world of Artificial Intelligence (AI), Application Programming Interfaces (APIs) or multi-tool solutions, today's tech world is rife with options.
 
 ## For Beginners 🎈
