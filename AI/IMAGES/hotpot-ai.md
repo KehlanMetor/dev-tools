@@ -1,0 +1,5 @@
+# [Hotpot.ai](https://hotpot.ai/art-generator)
+
+Hotpot.ai is an artificial intelligence (AI) driven website that provides users with personalized recommendations for online content. It uses algorithms to analyze user data and curate content that is tailored to the user’s interests. The website also provides reporting and analytics to help users better understand their behaviors and preferences.
+
+I would give Hotpot.ai a grade of B+. It provides a valuable service that can help users find content tailored to their interests quickly and conveniently. The website also offers helpful analytics and reporting that can give users insights into their online behavior. The only area where the website could be improved is in the user interface, which could benefit from some simplification to make it easier to use.
